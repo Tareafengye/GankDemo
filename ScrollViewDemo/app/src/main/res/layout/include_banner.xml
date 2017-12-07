@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.scrollviewdemo.weight.LoweLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:ratio="1.6">
+
+        <LinearLayout
+            android:id="@+id/linView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.youth.banner.Banner
+                android:id="@+id/banner_home"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:indicator_drawable_selected="@drawable/banner_false"
+                app:indicator_drawable_unselected="@drawable/banner_true"
+                app:indicator_height="5dp"
+                app:indicator_width="5dp" />
+        </LinearLayout>
+
+    </com.scrollviewdemo.weight.LoweLinearLayout>
+</LinearLayout>

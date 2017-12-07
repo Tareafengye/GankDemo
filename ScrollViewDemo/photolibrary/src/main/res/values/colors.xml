@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#999999</color>
+    <color name="colorAccent">#999999</color>
+    <color name="colorPrimary">#999999</color>
+    <!--MainActivity-->
+    <color name="colorMainSearch">#999999</color>
+    <color name="colorMainDividerLine">#e2e2e2</color>
+    <color name="colorHomeTextNormal">#999999</color>
+    <color name="colorHomeTextSelected">#24C789</color>
+    <color name="colorHomeBg">#ecf0f3</color>
+    <!--DiscoveryFragment-->
+    <color name="colorDiscoveryBg">#ecf0f3</color>
+    <color name="colorDiscoveryDiscountText">#404040</color>
+    <color name="colorDiscoveryContent">#BDBCBC</color>
+    <color name="colorDiscoveryOrder">#545069</color>
+    <color name="colorDiscoveryGreen">#24C789</color>
+    <!--AbilityFragment-->
+    <color name="colorAbilityText">#404040</color>
+    <color name="colorAbilityPriceText">#24C789</color>
+    <!--ArenaFragment-->
+    <color name="colorArenaGreen">#24C789</color>
+    <color name="colorArenaText">#404040</color>
+    <color name="light_gray">#808080</color>
+    <!--背景颜色-->
+    <color name="light_white">#f8f8f8</color>
+    <color name="night_backgroup_color">#3f3f33</color>
+    <color name="night_one_text_color">#FFbbbbbb</color>
+    <color name="night_two_text_color">#8A9599</color>
+    <color name="divider">#f5f5f5</color>
+    <color name="top_category_bar_background">#eeeeee</color>
+    <color name="activity_bg_color">#fffafafa</color>
+    <color name="background_tab_pressed">#f3f3f3</color><!-- tabpager's color -->
+    <color name="c_e53333">#e53333</color>
+    <color name="c_333333">#333333</color>
+    <color name="wihte">#ffffff</color>
+    <color name="ganlan">#5EB95E</color>
+    <color name="black">#252525</color>
+    <!--底部导航栏图片灰色-->
+    <color name="text_text">#6D6D6D</color>
+    <color name="nav_gray">#a9a9a9</color>
+
+    <!--白色-->
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#e97a15</color>
+    <color name="pink">#ED635E</color>
+    <!---->
+    <color name="man_color">#fb5d13</color>
+    <color name="jainbian1">#fefefe</color>
+    <color name="nam">#00000000</color>
+    <color name="textColor">#a9a9a9</color>
+    <color name="viewColor">#eef8f4 </color>
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="tuandui">#ECF0F3</color>
+    <color name="bg_video_controller">#A6000000</color>
+    <color name="main_color_white">#FFFFFF</color>
+    <color name="main_tv_black">#333333</color>
+    <color name="main_color_red">#ff3238</color>
+    <color name="main_line_grey">#eeeeee</color>
+    <color name="main_goods_name">#666666</color>
+    <color name="main_bg_grey">#f5f5f5</color>
+
+    <color name="main_transparent">#00000000</color>
+</resources>
